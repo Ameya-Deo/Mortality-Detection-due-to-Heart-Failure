@@ -24,6 +24,13 @@ smoking : If the patient smokes or not (boolean)
 time : Follow-up period (days)
 DEATH_EVENT : If the patient deceased during the follow-up period (boolean)
 
+## Models Implemented:
+1) Logistic Regression
+2) Decision Tree
+3) Random Forest
+4) SVM
+5) XGBoost
+
 ## Conclusion
 The goal of predicting death due to heart failure was effectively assessed using 12 characteristics or health situations. Decision tree outperforms all other models in terms of accuracy, predicting 95% of the time. The project is in the healthcare industry, and it has a lot of potential in terms of predictive analysis and machine learning models.
 
